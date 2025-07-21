@@ -15,7 +15,7 @@
 
 3、Icons地址请使用raw地址
 
-        大图    https://raw.githubusercontent.com/supernaga/HOMOMIX/main/Icon/Large/Color/China.png
+        大图    https://raw.githubusercontent.com/supernaga/blob/main/Icon/Color/China.png
 
         小图    https://raw.githubusercontent.com/supernaga/HOMOMIX/main/Icon/Color/China.png
 
